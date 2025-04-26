@@ -45,7 +45,7 @@ The main goal is to show that HTTP methods are not strictly defined, so it's kep
 
 ```
 methodius --rfc # will start in classic, expected mappping
-methodius -p 88888 # will start on port 88888 instead of default 8080
+methodius -p 8888 # will start on port 8888 instead of default 8080
 methodius -v # will show what is it doing for each method
 ```
 
